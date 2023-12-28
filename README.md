@@ -22,7 +22,7 @@ To get started with OpenECommerce-API, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/OpenECommerce-API.git
+   git clone https://github.com/pmoluno/OpenECommerce-API.git
 
 2. **Install Dependencies:**
    ```bash
