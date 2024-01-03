@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "morgan": "^1.10.0",
+    "passport": "^0.7.0",
+    "passport-facebook": "^3.0.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local": "^1.0.0"
+  },
+  "name": "openecommerce-api",
+  "description": "Welcome to OpenECommerce-API, an open-source project that provides a robust and scalable API for building large-scale e-commerce platforms. This API is built using Node.js, Express, and MongoDB, leveraging modern technologies to ensure performance, flexibility, and ease of development.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pmoluno",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
